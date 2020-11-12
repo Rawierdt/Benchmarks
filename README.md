@@ -14,3 +14,6 @@ Pequeño programa escrito en Java donde probaremos diversos arreglos.
 - *la gpu (tarjeta grafica) no se ve afectada durande este calculo y no influye en la velocidad del calculo*
 - *Ingresar un numero negativo no tendra efecto y cerrara el programa*
 - *Operaciones mas grandes como 426^20 llevera un tiempo estimado de mas 4 dias para un procesador Intel i3 de 3° generación*
+
+# Screenshot
+![Captura](https://i.ibb.co/6nQVC6k/Benchmark-Screen.png)
